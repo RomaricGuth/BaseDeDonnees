@@ -1,0 +1,35 @@
+h1, h4[name=id], h4[name=mdp]{
+    text-align: center;
+}
+
+form[name=authentification]{
+    position: absolute;
+    top: 30%;
+    left: 43%;
+}
+
+input[name=pEnvoyer]{
+    position: relative;
+    top: 50px;
+    left: 26%;
+}
+
+input[name=deco]{
+    position: absolute;
+    top: 8%;
+    left: 0%;
+}
+
+table {
+    border: medium solid #000000;
+    width: 50%;
+}
+
+td, tr {
+    border: thin solid #6495ed;
+    width: 50%;
+}
+
+body{
+    background-color: #f8ae7ca9;
+}
